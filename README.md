@@ -10,7 +10,7 @@ Estrutura do Projeto
 
 
 
-Profissao Cientista de Dados M14 Pratique (1).ipynb: Notebook principal com o código e explicações passo a passo do pré-processamento.
+Profissao_Cientista_de_Dados_M14_Pratique: Notebook principal com o código e explicações passo a passo do pré-processamento.
 
 
 
@@ -114,7 +114,7 @@ Certifique-se de que o arquivo CHURN_TELECON_MOD08_TAREFA.csv está no caminho c
 
 
 
-Abra o notebook Profissao Cientista de Dados M14 Pratique (1).ipynb em um ambiente Jupyter (ex.: Jupyter Notebook, JupyterLab ou Google Colab).
+Abra o notebook Profissao_Cientista_de_Dados_M14_Pratique em um ambiente Jupyter (ex.: Jupyter Notebook, JupyterLab ou Google Colab).
 
 
 
@@ -129,6 +129,7 @@ Licença
 Este projeto não possui uma licença específica definida. Use-o para aprendizado e prática, respeitando os direitos dos dados originais, se aplicável.
 
 Autor
+Vinicius Martins Guimarães
 
 
 
